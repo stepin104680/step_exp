@@ -4,3 +4,4 @@
 ![C/C++ CI](https://github.com/stepin104680/step_exp/workflows/C/C++%20CI/badge.svg)
 ![cppcheck-action](https://github.com/stepin104680/step_exp/workflows/cppcheck-action/badge.svg)
 ![CI](https://github.com/stepin104680/step_exp/workflows/CI/badge.svg)
+![Unit testing](https://github.com/stepin104680/step_exp/workflows/Unit%20testing/badge.svg)
